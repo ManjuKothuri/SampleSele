@@ -1,0 +1,7 @@
+chromeDriver=K:\\Eclipse\\SampleSele\\target\\test-classes\\binaries\\chromedriver.exe
+
+firefoxDriver=K:\\Eclipse\\SampleSele\\target\\test-classes\\binaries\\geckodriver.exe
+
+URL=https://www.w3schools.com/html/html_tables.asp
+
+Excelpath=
